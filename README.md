@@ -20,6 +20,7 @@
 -->
 
 <div align="center">
+
     
 <img src="https://imgur.com/GNevDZ0.png" align="center" alt="Apache Pinot"/>
 
